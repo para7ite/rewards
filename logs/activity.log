@@ -1,0 +1,450 @@
+2023-10-15 12:03:14,223 [INFO] ********************parasasija007@outlook.com********************
+2023-10-15 12:03:27,854 [INFO] Using default request storage
+2023-10-15 12:03:28,051 [INFO] Created proxy listening on 127.0.0.1:62310
+2023-10-15 12:03:28,055 [INFO] Using undetected_chromedriver
+2023-10-15 12:03:36,093 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 12:03:42,203 [ERROR] WebDriverException: Message: unknown error: cannot connect to chrome at 127.0.0.1:62317
+from session not created: This version of ChromeDriver only supports Chrome version 118
+Current browser version is 117.0.5938.152
+Stacktrace:
+	GetHandleVerifier [0x00284DE3+43907]
+	(No symbol) [0x00210741]
+	(No symbol) [0x001033ED]
+	(No symbol) [0x0012BE61]
+	(No symbol) [0x0012B5B4]
+	(No symbol) [0x0012528C]
+	(No symbol) [0x001250BF]
+	(No symbol) [0x00159396]
+	(No symbol) [0x00158F2C]
+	(No symbol) [0x00152956]
+	(No symbol) [0x0012E17E]
+	(No symbol) [0x0012F32D]
+	GetHandleVerifier [0x00535AF9+2865305]
+	GetHandleVerifier [0x0057E78B+3163435]
+	GetHandleVerifier [0x00578441+3138017]
+	GetHandleVerifier [0x0030E0F0+605840]
+	(No symbol) [0x0021A64C]
+	(No symbol) [0x00216638]
+	(No symbol) [0x0021675F]
+	(No symbol) [0x00208DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+	(No symbol) [0x00000000]
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 127, in executeBot
+    with Browser(mobile=False, account=currentAccount, args=args) as desktopBrowser:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 41, in __init__
+    self.webdriver = self.browserSetup()
+                     ^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 77, in browserSetup
+    driver = webdriver.Chrome(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\seleniumwire\undetected_chromedriver\webdriver.py", line 61, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\chromium\webdriver.py", line 56, in __init__
+    super().__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 206, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 290, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 345, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot connect to chrome at 127.0.0.1:62317
+from session not created: This version of ChromeDriver only supports Chrome version 118
+Current browser version is 117.0.5938.152
+Stacktrace:
+	GetHandleVerifier [0x00284DE3+43907]
+	(No symbol) [0x00210741]
+	(No symbol) [0x001033ED]
+	(No symbol) [0x0012BE61]
+	(No symbol) [0x0012B5B4]
+	(No symbol) [0x0012528C]
+	(No symbol) [0x001250BF]
+	(No symbol) [0x00159396]
+	(No symbol) [0x00158F2C]
+	(No symbol) [0x00152956]
+	(No symbol) [0x0012E17E]
+	(No symbol) [0x0012F32D]
+	GetHandleVerifier [0x00535AF9+2865305]
+	GetHandleVerifier [0x0057E78B+3163435]
+	GetHandleVerifier [0x00578441+3138017]
+	GetHandleVerifier [0x0030E0F0+605840]
+	(No symbol) [0x0021A64C]
+	(No symbol) [0x00216638]
+	(No symbol) [0x0021675F]
+	(No symbol) [0x00208DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+	(No symbol) [0x00000000]
+
+2023-10-15 12:03:42,445 [INFO] ********************paras.asija@yahoo.com********************
+2023-10-15 12:03:47,887 [INFO] Using default request storage
+2023-10-15 12:03:47,917 [INFO] Created proxy listening on 127.0.0.1:62340
+2023-10-15 12:03:47,918 [INFO] Using undetected_chromedriver
+2023-10-15 12:03:58,793 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 12:04:08,328 [ERROR] WebDriverException: Message: unknown error: cannot connect to chrome at 127.0.0.1:62343
+from session not created: This version of ChromeDriver only supports Chrome version 118
+Current browser version is 117.0.5938.152
+Stacktrace:
+	GetHandleVerifier [0x003C4DE3+43907]
+	(No symbol) [0x00350741]
+	(No symbol) [0x002433ED]
+	(No symbol) [0x0026BE61]
+	(No symbol) [0x0026B5B4]
+	(No symbol) [0x0026528C]
+	(No symbol) [0x002650BF]
+	(No symbol) [0x00299396]
+	(No symbol) [0x00298F2C]
+	(No symbol) [0x00292956]
+	(No symbol) [0x0026E17E]
+	(No symbol) [0x0026F32D]
+	GetHandleVerifier [0x00675AF9+2865305]
+	GetHandleVerifier [0x006BE78B+3163435]
+	GetHandleVerifier [0x006B8441+3138017]
+	GetHandleVerifier [0x0044E0F0+605840]
+	(No symbol) [0x0035A64C]
+	(No symbol) [0x00356638]
+	(No symbol) [0x0035675F]
+	(No symbol) [0x00348DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 127, in executeBot
+    with Browser(mobile=False, account=currentAccount, args=args) as desktopBrowser:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 41, in __init__
+    self.webdriver = self.browserSetup()
+                     ^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 77, in browserSetup
+    driver = webdriver.Chrome(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\seleniumwire\undetected_chromedriver\webdriver.py", line 61, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\chromium\webdriver.py", line 56, in __init__
+    super().__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 206, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 290, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 345, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot connect to chrome at 127.0.0.1:62343
+from session not created: This version of ChromeDriver only supports Chrome version 118
+Current browser version is 117.0.5938.152
+Stacktrace:
+	GetHandleVerifier [0x003C4DE3+43907]
+	(No symbol) [0x00350741]
+	(No symbol) [0x002433ED]
+	(No symbol) [0x0026BE61]
+	(No symbol) [0x0026B5B4]
+	(No symbol) [0x0026528C]
+	(No symbol) [0x002650BF]
+	(No symbol) [0x00299396]
+	(No symbol) [0x00298F2C]
+	(No symbol) [0x00292956]
+	(No symbol) [0x0026E17E]
+	(No symbol) [0x0026F32D]
+	GetHandleVerifier [0x00675AF9+2865305]
+	GetHandleVerifier [0x006BE78B+3163435]
+	GetHandleVerifier [0x006B8441+3138017]
+	GetHandleVerifier [0x0044E0F0+605840]
+	(No symbol) [0x0035A64C]
+	(No symbol) [0x00356638]
+	(No symbol) [0x0035675F]
+	(No symbol) [0x00348DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+
+2023-10-15 12:04:08,414 [INFO] ********************parasasija07@gmail.com********************
+2023-10-15 12:10:14,304 [INFO] ********************parasasija07@gmail.com********************
+2023-10-15 12:10:22,432 [INFO] Using default request storage
+2023-10-15 12:10:22,532 [INFO] Created proxy listening on 127.0.0.1:62473
+2023-10-15 12:10:22,535 [INFO] Using undetected_chromedriver
+2023-10-15 12:10:30,966 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 12:10:36,803 [ERROR] WebDriverException: Message: unknown error: cannot connect to chrome at 127.0.0.1:62477
+from session not created: This version of ChromeDriver only supports Chrome version 118
+Current browser version is 117.0.5938.152
+Stacktrace:
+	GetHandleVerifier [0x011C4DE3+43907]
+	(No symbol) [0x01150741]
+	(No symbol) [0x010433ED]
+	(No symbol) [0x0106BE61]
+	(No symbol) [0x0106B5B4]
+	(No symbol) [0x0106528C]
+	(No symbol) [0x010650BF]
+	(No symbol) [0x01099396]
+	(No symbol) [0x01098F2C]
+	(No symbol) [0x01092956]
+	(No symbol) [0x0106E17E]
+	(No symbol) [0x0106F32D]
+	GetHandleVerifier [0x01475AF9+2865305]
+	GetHandleVerifier [0x014BE78B+3163435]
+	GetHandleVerifier [0x014B8441+3138017]
+	GetHandleVerifier [0x0124E0F0+605840]
+	(No symbol) [0x0115A64C]
+	(No symbol) [0x01156638]
+	(No symbol) [0x0115675F]
+	(No symbol) [0x01148DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 127, in executeBot
+    with Browser(mobile=False, account=currentAccount, args=args) as desktopBrowser:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 41, in __init__
+    self.webdriver = self.browserSetup()
+                     ^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 77, in browserSetup
+    driver = webdriver.Chrome(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\seleniumwire\undetected_chromedriver\webdriver.py", line 61, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\chromium\webdriver.py", line 56, in __init__
+    super().__init__(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 205, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 289, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot connect to chrome at 127.0.0.1:62477
+from session not created: This version of ChromeDriver only supports Chrome version 118
+Current browser version is 117.0.5938.152
+Stacktrace:
+	GetHandleVerifier [0x011C4DE3+43907]
+	(No symbol) [0x01150741]
+	(No symbol) [0x010433ED]
+	(No symbol) [0x0106BE61]
+	(No symbol) [0x0106B5B4]
+	(No symbol) [0x0106528C]
+	(No symbol) [0x010650BF]
+	(No symbol) [0x01099396]
+	(No symbol) [0x01098F2C]
+	(No symbol) [0x01092956]
+	(No symbol) [0x0106E17E]
+	(No symbol) [0x0106F32D]
+	GetHandleVerifier [0x01475AF9+2865305]
+	GetHandleVerifier [0x014BE78B+3163435]
+	GetHandleVerifier [0x014B8441+3138017]
+	GetHandleVerifier [0x0124E0F0+605840]
+	(No symbol) [0x0115A64C]
+	(No symbol) [0x01156638]
+	(No symbol) [0x0115675F]
+	(No symbol) [0x01148DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+
+2023-10-15 12:10:36,837 [INFO] ********************parasasija7@gmail.com********************
+2023-10-15 12:14:15,981 [INFO] ********************parasasija7@gmail.com********************
+2023-10-15 12:14:22,701 [INFO] Using default request storage
+2023-10-15 12:14:22,741 [INFO] Created proxy listening on 127.0.0.1:62587
+2023-10-15 12:14:22,750 [INFO] Using undetected_chromedriver
+2023-10-15 12:14:33,711 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 12:14:40,997 [INFO] Screen size: 1972x1379
+2023-10-15 12:14:41,004 [INFO] Device size: 1917x1228
+2023-10-15 12:14:41,381 [INFO] [LOGIN] Logging-in...
+2023-10-15 12:38:33,207 [INFO] ********************parasasija007@outlook.com********************
+2023-10-15 12:38:37,020 [INFO] Using default request storage
+2023-10-15 12:38:37,052 [INFO] Created proxy listening on 127.0.0.1:63028
+2023-10-15 12:38:37,052 [INFO] Using undetected_chromedriver
+2023-10-15 12:38:44,283 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 12:38:49,372 [INFO] Screen size: 1669x1171
+2023-10-15 12:38:49,435 [INFO] Device size: 1614x1020
+2023-10-15 12:38:50,750 [INFO] [LOGIN] Logging-in...
+2023-10-15 12:41:16,798 [INFO] [LOGIN] Logged-in !
+2023-10-15 12:43:24,835 [INFO] [LOGIN] Ensuring login on Bing...
+2023-10-15 12:43:40,390 [INFO] [LOGIN] Logged-in successfully !
+2023-10-15 12:43:40,390 [INFO] [POINTS] You have 989.00 points on your account !
+2023-10-15 12:43:40,390 [INFO] [DAILY SET] Trying to complete the Daily Set...
+2023-10-15 12:44:58,328 [INFO] [DAILY SET] Completed the Daily Set successfully !
+2023-10-15 12:44:58,328 [INFO] [PUNCH CARDS] Trying to complete the Punch Cards...
+2023-10-15 12:46:00,969 [INFO] [PUNCH CARDS] Completed the Punch Cards successfully !
+2023-10-15 12:46:36,615 [INFO] [MORE PROMO] Trying to complete More Promotions...
+2023-10-15 12:47:48,694 [INFO] [MORE PROMO] Completed More Promotions successfully !
+2023-10-15 12:47:48,743 [INFO] [BING] Starting Desktop Edge Bing searches...
+2023-10-15 12:47:51,106 [INFO] [BING] 1/11
+2023-10-15 12:48:19,090 [INFO] [BING] 2/11
+2023-10-15 12:48:44,866 [INFO] [BING] 3/11
+2023-10-15 12:49:07,319 [INFO] [BING] 4/11
+2023-10-15 12:49:33,471 [INFO] [BING] 5/11
+2023-10-15 12:50:03,684 [INFO] [BING] 6/11
+2023-10-15 12:50:39,404 [INFO] [BING] 7/11
+2023-10-15 12:51:00,573 [INFO] [BING] 8/11
+2023-10-15 12:51:37,061 [INFO] [BING] 9/11
+2023-10-15 12:53:09,204 [INFO] [BING] 10/11
+2023-10-15 12:54:33,296 [INFO] [BING] 11/11
+2023-10-15 12:59:42,616 [ERROR] [BING] Timeout, retrying in 5 seconds...
+2023-10-15 13:01:25,089 [INFO] [BING] Finished Desktop Edge Bing searches !
+2023-10-15 13:01:25,089 [INFO] [POINTS] You have earned 73.00 points today !
+2023-10-15 13:01:25,095 [INFO] [POINTS] You are now at 1,062.00 points !
+
+2023-10-15 13:01:44,742 [INFO] ********************paras.asija@protonmail.com********************
+2023-10-15 13:02:00,846 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 13:02:10,022 [INFO] Screen size: 1219x1078
+2023-10-15 13:02:10,139 [INFO] Device size: 1164x927
+2023-10-15 13:02:12,053 [INFO] [LOGIN] Logging-in...
+2023-10-15 13:02:29,914 [INFO] [LOGIN] Writing email...
+2023-10-15 13:02:40,931 [INFO] [LOGIN] Writing password...
+2023-10-15 13:03:48,882 [INFO] [LOGIN] Logged-in !
+2023-10-15 13:06:12,110 [ERROR] JavascriptException: Message: javascript error: dashboard is not defined
+  (Session info: chrome=118.0.5993.71)
+Stacktrace:
+	GetHandleVerifier [0x00D54DE3+43907]
+	(No symbol) [0x00CE0741]
+	(No symbol) [0x00BD33ED]
+	(No symbol) [0x00BD6F6D]
+	(No symbol) [0x00BD89D9]
+	(No symbol) [0x00C35DEB]
+	(No symbol) [0x00C22B5C]
+	(No symbol) [0x00C355CA]
+	(No symbol) [0x00C22956]
+	(No symbol) [0x00BFE17E]
+	(No symbol) [0x00BFF32D]
+	GetHandleVerifier [0x01005AF9+2865305]
+	GetHandleVerifier [0x0104E78B+3163435]
+	GetHandleVerifier [0x01048441+3138017]
+	GetHandleVerifier [0x00DDE0F0+605840]
+	(No symbol) [0x00CEA64C]
+	(No symbol) [0x00CE6638]
+	(No symbol) [0x00CE675F]
+	(No symbol) [0x00CD8DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 128, in executeBot
+    accountPointsCounter = Login(desktopBrowser).login()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\login.py", line 43, in login
+    points = self.utils.getAccountPoints()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\utils.py", line 146, in getAccountPoints
+    return self.getDashboardData()["userStatus"]["availablePoints"]
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\utils.py", line 116, in getDashboardData
+    return self.webdriver.execute_script("return dashboard")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 404, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: dashboard is not defined
+  (Session info: chrome=118.0.5993.71)
+Stacktrace:
+	GetHandleVerifier [0x00D54DE3+43907]
+	(No symbol) [0x00CE0741]
+	(No symbol) [0x00BD33ED]
+	(No symbol) [0x00BD6F6D]
+	(No symbol) [0x00BD89D9]
+	(No symbol) [0x00C35DEB]
+	(No symbol) [0x00C22B5C]
+	(No symbol) [0x00C355CA]
+	(No symbol) [0x00C22956]
+	(No symbol) [0x00BFE17E]
+	(No symbol) [0x00BFF32D]
+	GetHandleVerifier [0x01005AF9+2865305]
+	GetHandleVerifier [0x0104E78B+3163435]
+	GetHandleVerifier [0x01048441+3138017]
+	GetHandleVerifier [0x00DDE0F0+605840]
+	(No symbol) [0x00CEA64C]
+	(No symbol) [0x00CE6638]
+	(No symbol) [0x00CE675F]
+	(No symbol) [0x00CD8DB7]
+	BaseThreadInitThunk [0x77407BA9+25]
+	RtlInitializeExceptionChain [0x77BBBC5B+107]
+	RtlClearBits [0x77BBBBDF+191]
+
+2023-10-15 13:06:12,265 [INFO] ********************parasasija007@gmail.com********************
+2023-10-15 13:06:25,300 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 13:06:32,728 [INFO] Screen size: 1832x1488
+2023-10-15 13:06:32,785 [INFO] Device size: 1777x1337
+2023-10-15 13:06:32,972 [INFO] [LOGIN] Logging-in...
+2023-10-15 13:08:56,491 [INFO] [LOGIN] Logged-in !
+2023-10-15 13:09:43,043 [INFO] [LOGIN] Ensuring login on Bing...
+2023-10-15 13:10:09,440 [INFO] [LOGIN] Logged-in successfully !
+2023-10-15 13:10:09,444 [INFO] [POINTS] You have 1,256.00 points on your account !
+2023-10-15 13:10:09,445 [INFO] [DAILY SET] Trying to complete the Daily Set...
+2023-10-15 13:12:44,640 [INFO] [DAILY SET] Completed the Daily Set successfully !
+2023-10-15 13:12:44,646 [INFO] [PUNCH CARDS] Trying to complete the Punch Cards...
+2023-10-15 13:13:50,218 [INFO] [PUNCH CARDS] Completed the Punch Cards successfully !
+2023-10-15 13:14:27,639 [INFO] [MORE PROMO] Trying to complete More Promotions...
+2023-10-15 13:15:21,395 [INFO] [MORE PROMO] Completed More Promotions successfully !
+2023-10-15 13:15:21,451 [INFO] [BING] Starting Desktop Edge Bing searches...
+2023-10-15 13:15:24,589 [INFO] [BING] 1/11
+2023-10-15 13:16:17,375 [INFO] [BING] 2/11
+2023-10-15 13:16:46,562 [INFO] [BING] 3/11
+2023-10-15 13:17:23,817 [INFO] [BING] 4/11
+2023-10-15 13:17:49,737 [INFO] [BING] 5/11
+2023-10-15 13:18:30,414 [INFO] [BING] 6/11
+2023-10-15 13:19:25,300 [INFO] [BING] 7/11
+2023-10-15 13:19:55,094 [INFO] [BING] 8/11
+2023-10-15 13:20:22,729 [INFO] [BING] 9/11
+2023-10-15 13:20:59,040 [INFO] [BING] 10/11
+2023-10-15 13:22:12,504 [INFO] [BING] 11/11
+2023-10-15 13:23:26,243 [INFO] [BING] Finished Desktop Edge Bing searches !
+2023-10-15 13:23:26,244 [INFO] [POINTS] You have earned 68.00 points today !
+2023-10-15 13:23:26,244 [INFO] [POINTS] You are now at 1,324.00 points !
+
+2023-10-15 13:23:34,997 [INFO] ********************paras.asija@yahoo.com********************
+2023-10-15 13:23:46,697 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 13:23:54,095 [INFO] Screen size: 2360x1326
+2023-10-15 13:23:54,139 [INFO] Device size: 2305x1175
+2023-10-15 13:23:54,694 [INFO] [LOGIN] Logging-in...
+2023-10-15 13:57:17,753 [INFO] ********************parasasija007@gmail.com********************
+2023-10-15 13:57:23,151 [INFO] Using default request storage
+2023-10-15 13:57:23,166 [INFO] Created proxy listening on 127.0.0.1:51370
+2023-10-15 13:57:23,166 [INFO] Using undetected_chromedriver
+2023-10-15 14:23:53,566 [INFO] ********************parasasija007@protonmail.com********************
+2023-10-15 14:23:59,269 [INFO] Using default request storage
+2023-10-15 14:23:59,284 [INFO] Created proxy listening on 127.0.0.1:51525
+2023-10-15 14:23:59,285 [INFO] Using undetected_chromedriver
+2023-10-15 14:24:06,933 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-15 14:24:16,313 [INFO] Screen size: 2247x1541
+2023-10-15 14:24:16,402 [INFO] Device size: 2192x1390
+2023-10-15 14:24:18,172 [INFO] [LOGIN] Logging-in...
+2023-10-15 14:25:10,992 [INFO] [LOGIN] Logged-in !

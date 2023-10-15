@@ -1,0 +1,407 @@
+2023-09-26 21:20:57,756 [INFO] ********************parasasija007@gmail.com********************
+2023-09-26 21:21:03,461 [INFO] Using default request storage
+2023-09-26 21:21:03,536 [INFO] Created proxy listening on 127.0.0.1:53246
+2023-09-26 21:21:03,536 [INFO] Using undetected_chromedriver
+2023-09-26 21:21:10,883 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-09-26 21:21:17,509 [INFO] Screen size: 1832x1488
+2023-09-26 21:21:17,585 [INFO] Device size: 1777x1337
+2023-09-26 21:21:19,027 [INFO] [LOGIN] Logging-in...
+2023-09-26 21:22:30,255 [INFO] [LOGIN] Logged-in !
+2023-09-26 21:23:06,038 [INFO] [LOGIN] Ensuring login on Bing...
+2023-09-26 21:23:18,088 [INFO] [LOGIN] Logged-in successfully !
+2023-09-26 21:23:18,090 [INFO] [POINTS] You have 1,079.00 points on your account !
+2023-09-26 21:23:18,091 [INFO] [DAILY SET] Trying to complete the Daily Set...
+2023-09-26 21:23:40,204 [INFO] [DAILY SET] Completed the Daily Set successfully !
+2023-09-26 21:23:40,205 [INFO] [PUNCH CARDS] Trying to complete the Punch Cards...
+2023-09-26 21:24:23,695 [INFO] [PUNCH CARDS] Completed the Punch Cards successfully !
+2023-09-26 21:24:31,643 [INFO] [MORE PROMO] Trying to complete More Promotions...
+2023-09-26 21:24:47,613 [INFO] [MORE PROMO] Completed More Promotions successfully !
+2023-09-26 21:24:47,659 [INFO] [BING] Starting Desktop Edge Bing searches...
+2023-09-26 21:24:51,956 [INFO] [BING] 1/34
+2023-09-26 21:25:24,411 [INFO] [BING] 2/34
+2023-09-26 21:25:57,526 [INFO] [BING] 3/34
+2023-09-26 21:26:35,611 [INFO] [BING] 4/34
+2023-09-26 21:27:05,514 [INFO] [BING] 5/34
+2023-09-26 21:27:35,910 [INFO] [BING] 6/34
+2023-09-26 21:28:02,675 [INFO] [BING] 7/34
+2023-09-26 21:28:29,664 [INFO] [BING] 8/34
+2023-09-26 21:29:00,769 [INFO] [BING] 9/34
+2023-09-26 21:29:32,092 [INFO] [BING] 10/34
+2023-09-26 21:30:07,142 [INFO] [BING] 11/34
+2023-09-26 21:30:37,897 [INFO] [BING] 12/34
+2023-09-26 21:31:09,164 [INFO] [BING] 13/34
+2023-09-26 21:31:38,059 [INFO] [BING] 14/34
+2023-09-26 21:32:09,519 [INFO] [BING] 15/34
+2023-09-26 21:32:39,957 [INFO] [BING] 16/34
+2023-09-26 21:33:09,263 [INFO] [BING] 17/34
+2023-09-26 21:33:38,370 [INFO] [BING] 18/34
+2023-09-26 21:34:17,909 [INFO] [BING] 19/34
+2023-09-26 21:34:49,596 [INFO] [BING] 20/34
+2023-09-26 21:35:20,567 [INFO] [BING] 21/34
+2023-09-26 21:35:49,970 [INFO] [BING] 22/34
+2023-09-26 21:36:17,058 [INFO] [BING] 23/34
+2023-09-26 21:36:49,064 [INFO] [BING] 24/34
+2023-09-26 21:37:16,473 [INFO] [BING] 25/34
+2023-09-26 21:37:52,639 [INFO] [BING] 26/34
+2023-09-26 21:38:19,685 [INFO] [BING] 27/34
+2023-09-26 21:38:49,340 [INFO] [BING] 28/34
+2023-09-26 21:39:26,006 [INFO] [BING] 29/34
+2023-09-26 21:39:57,568 [INFO] [BING] 30/34
+2023-09-26 21:40:25,178 [INFO] [BING] 31/34
+2023-09-26 21:40:53,279 [INFO] [BING] 32/34
+2023-09-26 21:41:29,299 [INFO] [BING] 33/34
+2023-09-26 21:41:59,314 [INFO] [BING] 34/34
+2023-09-26 21:43:27,235 [INFO] [BING] Finished Desktop Edge Bing searches !
+2023-09-26 21:44:00,349 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-09-26 21:44:07,518 [INFO] Screen size: 395x1019
+2023-09-26 21:44:07,563 [INFO] Device size: 395x873
+2023-09-26 21:44:09,748 [INFO] [LOGIN] Logging-in...
+2023-09-26 21:45:45,228 [INFO] [LOGIN] Logged-in !
+2023-09-26 21:47:14,620 [INFO] [LOGIN] Ensuring login on Bing...
+2023-09-26 21:47:27,246 [INFO] [LOGIN] Logged-in successfully !
+2023-09-26 21:47:27,246 [INFO] [BING] Starting Mobile Edge Bing searches...
+2023-09-26 21:47:28,803 [INFO] [BING] 1/20
+2023-09-26 21:47:51,256 [INFO] [BING] 2/20
+2023-09-26 21:48:47,551 [INFO] [BING] 3/20
+2023-09-26 21:49:08,223 [INFO] [BING] 4/20
+2023-09-26 21:49:25,990 [INFO] [BING] 5/20
+2023-09-26 21:49:45,523 [INFO] [BING] 6/20
+2023-09-26 21:50:07,751 [INFO] [BING] 7/20
+2023-09-26 21:51:04,685 [INFO] [BING] 8/20
+2023-09-26 21:51:23,346 [INFO] [BING] 9/20
+2023-09-26 21:52:22,563 [INFO] [BING] 10/20
+2023-09-26 21:52:40,121 [INFO] [BING] 11/20
+2023-09-26 21:53:02,501 [INFO] [BING] 12/20
+2023-09-26 21:53:22,493 [INFO] [BING] 13/20
+2023-09-26 21:54:15,741 [INFO] [BING] 14/20
+2023-09-26 21:54:35,498 [INFO] [BING] 15/20
+2023-09-26 21:54:53,015 [INFO] [BING] 16/20
+2023-09-26 21:55:10,926 [INFO] [BING] 17/20
+2023-09-26 21:55:29,598 [INFO] [BING] 18/20
+2023-09-26 21:55:49,268 [INFO] [BING] 19/20
+2023-09-26 21:56:04,302 [INFO] [BING] 20/20
+2023-09-26 21:56:22,615 [INFO] [BING] Finished Mobile Edge Bing searches !
+2023-09-26 21:56:30,370 [INFO] [POINTS] You have earned 174.00 points today !
+2023-09-26 21:56:30,375 [INFO] [POINTS] You are now at 1,253.00 points !
+
+2023-09-26 21:56:30,377 [INFO] ********************parasasija07@gmail.com********************
+2023-09-26 21:56:43,577 [ERROR] SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1108, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1379, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 127, in executeBot
+    with Browser(mobile=False, account=currentAccount, args=args) as desktopBrowser:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 37, in __init__
+    ) = GenerateUserAgent().userAgent(self.browserConfig, mobile)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 48, in userAgent
+    app = self.getAppComponents(mobile)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 115, in getAppComponents
+    edgeWindowsVersion, edgeAndroidVersion = self.getEdgeVersions()
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 138, in getEdgeVersions
+    response = self.getWebdriverPage(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 184, in getWebdriverPage
+    response = requests.get(url)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2023-09-26 21:56:45,650 [INFO] ********************parasasija7@gmail.com********************
+2023-09-26 21:57:08,050 [ERROR] SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1108, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1379, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 127, in executeBot
+    with Browser(mobile=False, account=currentAccount, args=args) as desktopBrowser:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 37, in __init__
+    ) = GenerateUserAgent().userAgent(self.browserConfig, mobile)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 48, in userAgent
+    app = self.getAppComponents(mobile)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 115, in getAppComponents
+    edgeWindowsVersion, edgeAndroidVersion = self.getEdgeVersions()
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 138, in getEdgeVersions
+    response = self.getWebdriverPage(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 184, in getWebdriverPage
+    response = requests.get(url)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2023-09-26 21:57:08,414 [INFO] ********************paras.asija@protonmail.com********************
+2023-09-26 21:57:29,684 [ERROR] SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1108, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1379, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 127, in executeBot
+    with Browser(mobile=False, account=currentAccount, args=args) as desktopBrowser:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 37, in __init__
+    ) = GenerateUserAgent().userAgent(self.browserConfig, mobile)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 48, in userAgent
+    app = self.getAppComponents(mobile)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 115, in getAppComponents
+    edgeWindowsVersion, edgeAndroidVersion = self.getEdgeVersions()
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 138, in getEdgeVersions
+    response = self.getWebdriverPage(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 184, in getWebdriverPage
+    response = requests.get(url)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2023-09-26 21:57:29,978 [INFO] ********************parasasija007@protonmail.com********************
+2023-09-26 21:57:46,328 [ERROR] SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1108, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 1379, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 24, in main
+    executeBot(currentAccount, notifier, args)
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\main.py", line 127, in executeBot
+    with Browser(mobile=False, account=currentAccount, args=args) as desktopBrowser:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\browser.py", line 37, in __init__
+    ) = GenerateUserAgent().userAgent(self.browserConfig, mobile)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 48, in userAgent
+    app = self.getAppComponents(mobile)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 115, in getAppComponents
+    edgeWindowsVersion, edgeAndroidVersion = self.getEdgeVersions()
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 138, in getEdgeVersions
+    response = self.getWebdriverPage(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\downloads_idm\Compressed\Microsoft-Rewards-Farmer-master\src\userAgentGenerator.py", line 184, in getWebdriverPage
+    response = requests.get(url)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\paras\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='edgeupdates.microsoft.com', port=443): Max retries exceeded with url: /api/products (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2023-09-26 21:57:46,391 [INFO] ********************parasasija007@outlook.com********************
+2023-09-26 21:58:07,261 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-09-26 21:58:22,593 [INFO] Screen size: 1669x1171
+2023-09-26 21:58:22,698 [INFO] Device size: 1614x1020
+2023-09-26 21:58:24,011 [INFO] [LOGIN] Logging-in...

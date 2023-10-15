@@ -1,0 +1,10 @@
+2023-10-06 19:57:10,920 [INFO] ********************parasasija007@protonmail.com********************
+2023-10-06 19:57:13,600 [INFO] Using default request storage
+2023-10-06 19:57:13,664 [INFO] Created proxy listening on 127.0.0.1:64711
+2023-10-06 19:57:13,668 [INFO] Using undetected_chromedriver
+2023-10-06 19:57:20,243 [INFO] patching driver executable C:\Users\paras\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-10-06 19:57:22,804 [INFO] Screen size: 2247x1541
+2023-10-06 19:57:22,829 [INFO] Device size: 2192x1390
+2023-10-06 19:57:23,120 [INFO] [LOGIN] Logging-in...
+2023-10-06 19:57:28,744 [INFO] [LOGIN] Writing email...
+2023-10-06 19:57:30,622 [INFO] [LOGIN] Writing password...
